@@ -49,9 +49,9 @@ li.dropdown:hover > .dropdown-menu {
 }
 
 .dropdown-toggle p {
-    color: #000;
-    font-family: serif;
-    font-size: 3px;
+    color: #fff;
+    font-family: 'Tinos', serif;
+    font-size: 7px;
     padding: -2px;
 }
 
