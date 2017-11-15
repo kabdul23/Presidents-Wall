@@ -52,7 +52,7 @@ li.dropdown:hover > .dropdown-menu {
     color: #fff;
     font-family: serif;
     font-size: 11px;
-  
+    padding: -2px;
 }
 
 .dropdown-toggle p:hover {
